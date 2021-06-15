@@ -3,5 +3,6 @@
     
         "configurations": [],
         "compounds": []
-    }
+    },
+    "python.pythonPath": "venv\\Scripts\\python.exe"
 }
